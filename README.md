@@ -1,11 +1,24 @@
-My name is Clair.</h1>
-I'm a second year computer science student, and I'm especially interested in frontend evelopment and UI design!</h3>
+# Hi, I'm Clair! 👋
 
-- 🔭 I’m currently working on [Frog Game](https://github.com/clair05x/frog-game)
+I'm a fourth-year **Computer Science and Ivey HBA dual-degree student** at Western University.
 
-- 🌱 I’m currently learning **ARM assembly language and discreet structures**
+I'm interested in **software development, frontend development, and UI/UX design**, particularly where technology meets creative problem-solving. I also enjoy exploring how data and technology can be used to improve business processes and user experiences.
 
-- 📫 How to reach me: **claircom663@gmail.com**
+### 💻 What I'm working on
+- 🏋️ **Fitness Planning Application** — Building a personalized workout planning application using C++ and Qt, with object-oriented design, workout generation, and progress tracking.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🌱 What I'm exploring
+- Frontend development and UI/UX design
+- Software architecture and design patterns
+- Data analytics and business intelligence
+
+### 🛠️ Languages & Tools
+**Languages:** Python · Java · C++ · C · SQL · R · HTML
+
+**Tools:** Git · Qt · VS Code · IntelliJ IDEA · Power BI · Excel
+
+### 🎨 Outside of coding
+I enjoy oil painting, playing electric guitar, gaming, and wildlife conservation.
+
+### 📫 Connect with me
+**Email:** cyu.hba2028@ivey.ca
